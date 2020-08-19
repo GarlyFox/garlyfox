@@ -1,4 +1,4 @@
-  Header
+  ![Header](https://github.com/GarlyFox/garlyfox/blob/master/assets/logo.png) 
  
   About me
   
